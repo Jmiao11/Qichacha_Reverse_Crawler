@@ -16,6 +16,7 @@ a = {
 };
 
 
+
 const crypto = require('crypto');
 // 改写 _createHmacHelper 函数
 _createHmacHelper = function(data, secret) {
