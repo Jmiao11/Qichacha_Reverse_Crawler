@@ -81,7 +81,7 @@ e = {
             "Content-Type": "application/x-www-form-urlencoded"
         },
         "X-Requested-With": "XMLHttpRequest",
-        "x-pid": "55b6cda73a07961c6e829b6190a6a6b6"
+        "x-pid": window_pid
     },
     "baseURL": "https://www.qcc.com",
     "transformRequest": [None],  # 修正：Python 用 None 替代 JS 的 null
